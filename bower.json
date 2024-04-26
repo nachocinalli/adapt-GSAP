@@ -1,0 +1,14 @@
+{
+  "name": "adapt-GSAP",
+  "version": "1.0.0",
+  "framework": ">=5.0.0",
+  "homepage": "https://github.com/nachocinalli/adapt-GSAP",
+  "issues": "https://github.com/nachocinalli/adapt-GSAP/issues",
+  "extension": "GSAP",
+  "displayName": "GSAP",
+  "description": "This plugin allows you to use the GreenSock Animation Platform (GSAP)",
+  "main": "/js/adapt-GSAP.js",
+  "keywords": ["adapt-plugin", "adapt-extension"],
+  "license": "GPL-3.0",
+  "targetAttribute": "_GSAP"
+}
